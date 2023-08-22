@@ -1,0 +1,11 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000u\u0000l\u0000a\u00000\u00002\u0000 \u0000 Ituiutaba 22 de Agosto de 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao S",
+  "license": "ISC"
+}
